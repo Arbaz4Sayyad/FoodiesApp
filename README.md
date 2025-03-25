@@ -6,13 +6,13 @@ The **Online Food Delivery System** is a full-stack web application that allows 
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](food-images/Homepage.png)
+![Homepage](food images/Homepage.png)
 
 ### 🛒 Cart
-![Cart](food-images/Cart.png)
+![Cart](food images/Cart.png)
 
 ### 💳 Payment Gateway
-![Payment Gateway](food-images/PaymentGateway.png)
+![Payment Gateway](food images/PaymentGateway.png)
 
 
 ## 🚀 Features
