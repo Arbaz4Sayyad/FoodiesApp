@@ -3,6 +3,18 @@
 ## 📌 Overview
 The **Online Food Delivery System** is a full-stack web application that allows users to browse restaurants, order food, make payments, and track deliveries in real-time. It includes an **Admin Panel** for managing orders, users, and menu items.
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](food-images/Homepage.png)
+
+### 🛒 Cart
+![Cart](food-images/Cart.png)
+
+### 💳 Payment Gateway
+![Payment Gateway](food-images/PaymentGateway.png)
+
+
 ## 🚀 Features
 - **User Authentication:** JWT-based authentication with role-based access (Admin/User)
 - **Restaurant & Menu Management:** Add, update, and remove restaurants and menu items
