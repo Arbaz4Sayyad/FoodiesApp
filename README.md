@@ -1,7 +1,7 @@
 # Foodies - Online Food Ordering System
 
 ## Overview
-Foodies is a full-stack food ordering application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Spring Boot. The app allows users to browse restaurants, place orders, and make secure payments via Razorpay. An admin panel is included for managing orders, users, and restaurants.
+Foodies is a full-stack food ordering application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Spring Boot. The app allows users to browse restaurants, place orders, and make secure payments via Razorpay. An admin panel is included to manage orders, users, and restaurants.
 
 ## Features
 - **User Authentication:** Secure login and signup using JWT authentication.
@@ -80,6 +80,6 @@ cd foodies
 Feel free to fork the repository and submit pull requests!
 
 ## Contact
-For any issues, reach out to me at **bushansc@gmail.com**
+For any issues, reach out to me at **arbaz4sayyad@gmail.com**
 
 Happy Coding! 🚀
